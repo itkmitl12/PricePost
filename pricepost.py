@@ -8,7 +8,7 @@ def w_exit():
 """Class for main window"""
 class PricePost(object):
     def __init__(price_post):
-        """Main windowa"""
+        """Main window asd """
         price_post.root = Tk()
         price_post.root.title("PricePost, IT KMITL project")
         price_post.root.geometry("224x160")
